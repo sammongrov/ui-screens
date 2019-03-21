@@ -1,0 +1,311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About renders correctly 1`] = `
+<BVLinearGradient
+  colors={
+    Array [
+      4293914607,
+      4293914607,
+    ]
+  }
+  locations={
+    Array [
+      0,
+      1,
+    ]
+  }
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <RCTSafeAreaView
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      onLayout={[Function]}
+    >
+      <View
+        style={
+          Array [
+            undefined,
+            null,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              undefined,
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  Object {
+                    "color": "#fff",
+                    "fontSize": 30,
+                  },
+                  undefined,
+                  Object {
+                    "fontFamily": "Material Design Icons",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              ?
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              undefined,
+              undefined,
+              null,
+            ]
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "OpenSans-Regular",
+                },
+                Array [
+                  undefined,
+                  null,
+                ],
+              ]
+            }
+          >
+            About
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              undefined,
+              undefined,
+            ]
+          }
+        />
+      </View>
+      <RCTScrollView>
+        <View>
+          <View
+            style={
+              Array [
+                undefined,
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Image
+                source={777}
+              />
+            </View>
+            <View>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "OpenSans-Regular",
+                    },
+                    Array [
+                      undefined,
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                Version
+                : 
+                12.35.67
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "OpenSans-Regular",
+                    },
+                    Array [
+                      undefined,
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                Build
+                : 
+                1.2.3
+              </Text>
+              <View
+                style={
+                  Array [
+                    Object {},
+                    false,
+                  ]
+                }
+              >
+                <View
+                  accessible={true}
+                  isTVSelectable={true}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "backgroundColor": "#2089dc",
+                          "borderRadius": 3,
+                          "flexDirection": "row",
+                          "justifyContent": "center",
+                        },
+                        Array [
+                          undefined,
+                          undefined,
+                        ],
+                        false,
+                        false,
+                        false,
+                        undefined,
+                      ]
+                    }
+                  >
+                    <Text
+                      accessible={true}
+                      allowFontScaling={true}
+                      ellipsizeMode="tail"
+                      style={
+                        Array [
+                          Object {
+                            "backgroundColor": "transparent",
+                            "color": "white",
+                            "fontSize": 18,
+                            "padding": 8,
+                            "textAlign": "center",
+                          },
+                          undefined,
+                          false,
+                          false,
+                        ]
+                      }
+                    >
+                      Press Me
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "OpenSans-Regular",
+                    },
+                    Array [
+                      undefined,
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                www.mongrov.com
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "OpenSans-Regular",
+                    },
+                    Array [
+                      undefined,
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                support@mongrov.com
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "OpenSans-Regular",
+                    },
+                    Array [
+                      undefined,
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                Powered by Mongrov, Inc.
+              </Text>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </RCTSafeAreaView>
+</BVLinearGradient>
+`;
